@@ -1,0 +1,1 @@
+# MyAngularClassV2
